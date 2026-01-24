@@ -57,8 +57,8 @@ Any modification to cloud data is immediately detected via **hash mismatch with 
 4. Hash is recorded on blockchain
 5. Backend monitors data for sudden changes
 6. On anomaly detection:
-   - Groq API is called
-   - AI feedback is generated
+   - Groq API called
+   - AI feedback generated
 7. Dashboard displays:
    - Sensor values
    - Blockchain verification status
